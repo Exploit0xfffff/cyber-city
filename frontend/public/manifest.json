@@ -1,9 +1,9 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Cyber City",
+  "name": "Cyber City",
   "icons": [
     {
-      "src": "favicon.ico",
+      "src": "cyber-city-icon.ico",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     },
